@@ -1,0 +1,9 @@
+// npm i react-bootstrap bootstrap 
+
+// npm i react-router-dom  
+
+// npm i -g json-server 
+
+// npm install @reduxjs/toolkit react-redux 
+
+// json-server --watch db.json --port 4000 
